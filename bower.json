@@ -1,0 +1,21 @@
+{
+  "name": "materialize-sage",
+  "description": "A materialize css wordpress theme based on sage",
+  "main": "",
+  "authors": [
+    "Anthony Delgado <me@anthonydelgado.me>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/anthonydelgado/materialize-sage",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "^0.97.7"
+  }
+}
